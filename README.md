@@ -195,13 +195,13 @@ curl -X POST http://localhost:5000/api/locations \
 ## 📸 Screenshots
 
 ### Main Interface
-The application displays an interactive map with location markers and search functionality.
+![Main Interface](screenshots/Main%20Interface.png)
 
 ### Category Filters
-Users can filter locations by categories like Restaurants, Parks, Museums, Landmarks, and Cafes.
+![Category Filters](screenshots/Category%20Filters.png)
 
 ### Location Details
-Clicking on markers reveals detailed information including images, descriptions, and addresses.
+![Location Details](screenshots/Location%20Details.png)
 
 ## 🔧 Configuration
 
