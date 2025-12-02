@@ -85,7 +85,7 @@ Before running this project, make sure you have installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/interactive-map.git
+git clone https://github.com/Akash79665/interactive-map.git
 cd interactive-map
 ```
 
@@ -252,9 +252,9 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+Your Name: Akash Turkhade
+- GitHub: https://github.com/Akash79665/interactive-map.git
+- Email: apturkhade@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -276,4 +276,4 @@ Your Name
 
 ---
 
-**Made with ❤️ in Nagpur, India**
+**Made with ❤️ in  India**
