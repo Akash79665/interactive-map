@@ -252,7 +252,7 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-Your Name: Akash Turkhade
+- Name: Akash Turkhade
 - GitHub: https://github.com/Akash79665/interactive-map.git
 - Email: apturkhade@gmail.com
 
